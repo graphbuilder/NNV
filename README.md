@@ -1,2 +1,2 @@
 # NNV
-Netural Net Visualization
+Neural Net Visualization
